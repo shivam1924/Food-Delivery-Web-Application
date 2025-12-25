@@ -102,8 +102,3 @@ The application will be running on http://localhost:3000 for the frontend and ht
 
 
 
-
-## Contact
-
-If you have any questions, feel free to reach out at sknaseer9347@gmail.com.
-
